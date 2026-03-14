@@ -1,3 +1,3 @@
-module github.com/SEU_USUARIO/HelloWordGO
+module github.com/isaciqo/HelloWordGO
 
 go 1.25.0
